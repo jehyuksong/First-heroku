@@ -1,6 +1,7 @@
 # First-heroku
 ### 처음으로 node.js,express,api,heroku를 이용해서 웹페이지를 만들고 서버 연동까지 해봤다. 너무 신난다!
 ### Udemy Web development Section 20을 들으면서 진행했습니다.
+---
 
 # Heroku 서버 연동하기
 
